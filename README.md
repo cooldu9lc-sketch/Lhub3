@@ -7,8 +7,17 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0001-two-sum/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0001-two-sum/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
