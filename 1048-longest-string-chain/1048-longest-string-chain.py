@@ -1,17 +1,14 @@
 class Solution:
     def longestStrChain(self, words: List[str]) -> int:
-  
-        dp = defaultdict(int)
-        result = 1
+        wordSet = set(words)
 
-        for word in sorted(words, key=len):
-            dp[word] = 1
-
+        @lru_cache(None)
+        def dp(word):
+            ans = 1
             for i in range(len(word)):
-                pred = word[:i] + word[i + 1:]
+                predecessor = word[:i] + word[i + 1:]
+                if predecessor in wordSet:
+                    ans = max(ans, dp(predecessor) + 1)
+            return ans
 
-                if pred in dp and dp[pred]+1 > dp[word]:
-                    dp[word] = dp[pred] + 1
-                    result = max(result, dp[word])
-
-        return result
+        return max(dp(w) for w in wordSet)
