@@ -6,7 +6,7 @@ class Solution:
         if rem or arr[0]>target:return False
         
         dp={0:0}
-        for mask in range(1<<n):
+        for mask in range(2**n):
             if mask not in dp:continue
             for i,num in enumerate(arr):
                 if not (mask & 1<<i) and dp[mask]+num<=target:
