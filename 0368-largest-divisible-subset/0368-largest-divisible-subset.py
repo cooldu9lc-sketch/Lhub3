@@ -1,26 +1,41 @@
-class Solution:
-    def largestDivisibleSubset(self, nums: List[int]) -> List[int]:
-        
+class Solution(object):
+    def largestDivisibleSubset(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        if len(nums) == 0:
+            return []
+
+        # important step !
         nums.sort()
-        n=len(nums)
-        dp=[1]*n
-        maxlen=1
-        parent={}
-        res=[]
-        for j in range(len(nums)):
-            for i in range(j-1,-1,-1):
-                if nums[j]%nums[i]==0 and dp[i]+1>dp[j]:
-                    dp[j]=dp[i]+1
-                    maxlen=max(maxlen,dp[j])
-                    parent[j]=i
-        for i in range(n-1,-1,-1):
-            if dp[i]==maxlen:
-                res.append(nums[i])
-                break
-        maxlen-=1
-        curr=i
-        while maxlen:
-            curr=parent[curr]
-            res.append(nums[curr])
-            maxlen-=1
-        return res[::-1]
+
+        # The container that keep the size of the largest divisible subset that ends with X_i
+        # dp[i] corresponds to len(EDS(X_i))
+        dp = [0] * (len(nums))
+
+        """ Build the dynamic programming matrix/vector """
+        for i, num in enumerate(nums):
+            maxSubsetSize = 0
+            for k in range(0, i):
+                if nums[i] % nums[k] == 0:
+                    maxSubsetSize = max(maxSubsetSize, dp[k])
+
+            maxSubsetSize += 1
+            dp[i] = maxSubsetSize
+
+        """ Find both the size of largest divisible set and its index """
+        maxSize, maxSizeIndex = max([(v, i) for i, v in enumerate(dp)])
+        ret = []
+
+        """ Reconstruct the largest divisible subset """
+        # currSize: the size of the current subset
+        # currTail: the last element in the current subset
+        currSize, currTail = maxSize, nums[maxSizeIndex]
+        for i in range(maxSizeIndex, -1, -1):
+            if currSize == dp[i] and currTail % nums[i] == 0:
+                ret.append(nums[i])
+                currSize -= 1
+                currTail = nums[i]
+
+        return ret[::-1]
