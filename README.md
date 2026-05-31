@@ -8,6 +8,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0001-two-sum/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,13 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
