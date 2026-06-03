@@ -28,6 +28,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -71,20 +72,25 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
