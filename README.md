@@ -14,12 +14,14 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0001-two-sum/) | Easy |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
