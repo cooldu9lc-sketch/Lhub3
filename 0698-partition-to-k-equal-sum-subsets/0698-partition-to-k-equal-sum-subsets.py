@@ -13,3 +13,5 @@ class Solution:
                     dp[mask|1<<i]=(dp[mask]+num)%target
  
         return (1<<n)-1 in dp and dp[(1<<n)-1]==0
+
+        # %target is used to make the entire subset zero
