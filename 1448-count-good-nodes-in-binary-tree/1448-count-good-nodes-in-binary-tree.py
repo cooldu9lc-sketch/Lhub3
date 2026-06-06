@@ -1,5 +1,13 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        def recur(node, maxi=float("-inf")):
-            return 0 if not node else int(node.val >= maxi) + recur(node.left, max(maxi, node.val)) + recur(node.right, max(maxi, node.val))
+        
+        def recur(node,maxi=float("-inf")):
+            if not node:return 0
+            return int(node.val>=maxi) + recur(node.left,max(maxi,node.val)) + recur(node.right,max(maxi,node.val))
         return recur(root)
