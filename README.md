@@ -9,6 +9,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0001-two-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
+| [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
@@ -102,6 +103,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Bit Manipulation
