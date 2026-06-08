@@ -13,9 +13,7 @@ class AutocompleteSystem:
            
     
     def __init__(self, sentences: List[str], times: List[int]):
-        self.trie=lambda:defaultdict(self.trie,{"#":defaultdict(int)})
-        self.root=self.trie()
-        
+        self.root=self.trieNode()
         self.query = ""
         for sentence, count in zip(sentences, times):
             self.addWord(sentence,count)
