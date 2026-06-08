@@ -1,14 +1,14 @@
 class Trie:
 
     def __init__(self):
-        self.trie=lambda:defaultdict(self.trie,{"#":0})
+        self.trie=lambda:defaultdict(self.trie)
         self.root=self.trie()
 
     def insert(self, word: str) -> None:
         curr=self.root
         for w in word:
             curr=curr[w]
-        curr["#"]+=1
+        curr["#"]=True
 
     def search(self, word: str) -> bool:
         curr=self.root
@@ -16,7 +16,7 @@ class Trie:
             if w not in curr:
                 return False
             curr=curr[w]
-        return curr["#"]>=1
+        return "#" in curr
 
     def startsWith(self, prefix: str) -> bool:
         curr=self.root
