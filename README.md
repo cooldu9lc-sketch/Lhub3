@@ -11,6 +11,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0216-combination-sum-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -107,12 +108,14 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0216-combination-sum-iii/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
