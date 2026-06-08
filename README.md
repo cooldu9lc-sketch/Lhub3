@@ -13,6 +13,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0216-combination-sum-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -93,6 +94,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0091-decode-ways/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -113,6 +115,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0039-combination-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0216-combination-sum-iii/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -132,6 +135,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
@@ -193,6 +197,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
 ## Stack
