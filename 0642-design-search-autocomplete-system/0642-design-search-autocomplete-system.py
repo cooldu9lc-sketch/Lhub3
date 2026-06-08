@@ -24,6 +24,7 @@ class AutocompleteSystem:
         if c=="#" and len(self.query):
             self.addWord(self.query,1)
             self.query=""
+            return []
         else:
             self.query+=c
             node = self.root
