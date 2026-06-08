@@ -16,9 +16,10 @@ class Solution:
             char = board[i][j]
             curr= parent[char]
             board[i][j]="$"
-            wordm = curr.pop("#",None)
-            if wordm:
-                res.append(wordm)
+            #wordm = curr.pop("#",None)
+            if "#" in curr:
+                res.append(curr["#"])
+                del curr["#"]
             
             for dx,dy in [(i+1,j),(i-1,j),(i,j+1),(i,j-1)]:
                 if dx<0 or dx>=m or dy<0 or dy>=n:
@@ -28,7 +29,7 @@ class Solution:
             
             board[i][j]=char
             if len(curr)==0:
-                del parent[char]
+                del parent[char] ##PRUNING
         
         m,n=len(board),len(board[0])
         for r,c in product(range(m),range(n)):
