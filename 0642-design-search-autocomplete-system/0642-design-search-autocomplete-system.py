@@ -1,5 +1,10 @@
 class AutocompleteSystem:
     
+    def trieNode(self):
+        dic = defaultdict(lambda:self.trieNode())
+        dic["#"] = defaultdict(int)
+        return dic
+    
     def addWord(self,sentence,count):
         node = self.root
         for char in sentence:
