@@ -8,16 +8,15 @@ class Node:
 
 class Solution:
     def cloneGraph(self, node: 'Node') -> 'Node':
+        if not node:return None
         
-        dic={}
-        def recur(node):
-            if not node:return None
-            if node.val in dic:
-                return dic[node.val]
-            clone=Node(node.val)
-            dic[node.val]=clone
-            for child in node.neighbors:
-                clone.neighbors.append(recur(child))
-            return clone
+        mydic=dict()
+        def dfs(node):
+            if node.val in mydic:
+                return mydic[node.val]
+            clonenode=mydic.setdefault(node.val,Node(node.val))
+            for neigh in node.neighbors:
+                clonenode.neighbors.append(dfs(neigh))
+            return clonenode
         
-        return recur(node)
+        return dfs(node)
