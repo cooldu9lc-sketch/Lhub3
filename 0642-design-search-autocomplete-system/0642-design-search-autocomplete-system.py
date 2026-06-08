@@ -1,10 +1,5 @@
 class AutocompleteSystem:
     
-    def trieNode(self):
-        dic = defaultdict(lambda:self.trieNode())
-        dic["#"] = defaultdict(int)
-        return dic
-    
     def addWord(self,sentence,count):
         node = self.root
         for char in sentence:
@@ -13,8 +8,9 @@ class AutocompleteSystem:
            
     
     def __init__(self, sentences: List[str], times: List[int]):
-        #self.trie=lambda:defaultdict(self.trie,{"#":defaultdict(int)})
-        self.root=self.trieNode()
+        self.trie=lambda:defaultdict(self.trie,{"#":defaultdict(int)})
+        self.root=self.trie()
+        
         self.query = ""
         for sentence, count in zip(sentences, times):
             self.addWord(sentence,count)
