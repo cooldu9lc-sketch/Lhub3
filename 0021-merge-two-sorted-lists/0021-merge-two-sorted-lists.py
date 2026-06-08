@@ -17,8 +17,5 @@ class Solution:
                 list2=list2.next
             curr=curr.next
         list=list1 or list2
-        while list:
-            curr.next=list
-            list=list.next
-            curr=curr.next
+        curr.next=list
         return head.next
