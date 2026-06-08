@@ -9,6 +9,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0001-two-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
+| [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
@@ -87,6 +88,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0091-decode-ways](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0091-decode-ways/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
@@ -100,6 +102,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -174,6 +177,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -198,6 +202,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
