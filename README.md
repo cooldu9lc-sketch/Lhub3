@@ -45,6 +45,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
@@ -235,4 +236,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
