@@ -55,6 +55,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -123,6 +124,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0069-sqrtx](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0069-sqrtx/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
