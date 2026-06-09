@@ -3,10 +3,7 @@ class Solution:
         def ispossible(num):
             count = 0 
             for val in range(1,m+1):
-                add = min(num//val,n)
-                if add ==0: #early return
-                    break
-                count+=add
+                count += min(num//val,n)
             return count>=k
       
         ## EACH element in arr i.e arr[i] represents a single flower
