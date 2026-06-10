@@ -7,7 +7,7 @@ class Solution:
             return -1
         
         parent={i:i for i in range(1,n+1)}
-        size={i:1 for i in range(1,n+1)}
+        rank={i:1 for i in range(1,n+1)}
 
         def find(x):
             if parent[x]!=x:
@@ -15,20 +15,24 @@ class Solution:
             return parent[x]
         
         ans=0
+        connected=0
         
         for u,v,w in sorted(connections,key=lambda x:(x[2],x)):
             pu,pv=find(u),find(v)
             if pu!=pv:
-                if size[pu]>=size[pv]:
+                if rank[pu]>rank[pv]:
                     parent[pv]=pu
-                    size[pu]+=size[pv]
-                else:
+                elif rank[pv]>rank[pu]:
                     parent[pu]=pv
-                    size[pv]+=size[pu]
+                else:
+                    parent[pv]=pu
+                    rank[u]+=1
                 ans+=w
+                connected+=1
+                if connected==n-1:
+                    return ans
               
-        return ans if size[find(1)]==n else -1
-        
+        return ans if all(find(i)==find(1) for i in range(2,n+1)) else -1
         
         
         
