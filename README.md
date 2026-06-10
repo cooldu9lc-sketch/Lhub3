@@ -17,6 +17,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0048-rotate-image](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -75,6 +76,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0010-regular-expression-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0053-maximum-subarray/) | Medium |
 | [0091-decode-ways](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0091-decode-ways/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
@@ -283,6 +285,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
