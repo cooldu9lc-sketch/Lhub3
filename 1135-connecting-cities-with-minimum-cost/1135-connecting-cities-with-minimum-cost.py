@@ -1,23 +1,36 @@
 class Solution:
     def minimumCost(self, n: int, connections: List[List[int]]) -> int:
+        
+        
+      
         if len(connections) < n-1:
             return -1
-
-        graph=collections.defaultdict(list)
-        for x,y,cost in connections:
-            graph[x].append((y,cost))
-            graph[y].append((x,cost))
         
-        heap=[(0,1)]
-        seen=defaultdict(lambda:float("inf"))
-        while heap:
-            cost,city=heapq.heappop(heap)
-            
-            if seen[city]>cost:
-                seen[city]=cost
-                for nei,c in graph[city]:
-                    if nei not in seen:
-                        heapq.heappush(heap,(c,nei))
-        return -1 if len(seen)<n  else sum(seen[i] for i in range(1,n+1))
-        ##No Need for both seen set and dist map.
-        ## One can function as both
+        parent={i:i for i in range(1,n+1)}
+        size={i:1 for i in range(1,n+1)}
+
+        def find(x):
+            if parent[x]!=x:
+                parent[x]=find(parent[x])
+            return parent[x]
+        
+        ans=0
+        
+        for u,v,w in sorted(connections,key=lambda x:(x[2],x)):
+            pu,pv=find(u),find(v)
+            if pu!=pv:
+                if size[pu]>=size[pv]:
+                    parent[pv]=pu
+                    size[pu]+=size[pv]
+                else:
+                    parent[pu]=pv
+                    size[pv]+=size[pu]
+                ans+=w
+              
+        return ans if size[find(1)]==n else -1
+        
+        
+        
+        
+        
+    
