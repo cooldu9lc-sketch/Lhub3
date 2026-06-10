@@ -160,6 +160,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0144-binary-tree-preorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
@@ -217,6 +218,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0094-binary-tree-inorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -225,6 +227,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0094-binary-tree-inorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Matrix
@@ -278,4 +281,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
