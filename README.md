@@ -11,6 +11,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
@@ -42,6 +43,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0001-two-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -249,6 +251,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0036-valid-sudoku/) | Medium |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
