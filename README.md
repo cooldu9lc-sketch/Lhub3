@@ -9,6 +9,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0001-two-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
@@ -53,6 +54,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0278-first-bad-version/) | Easy |
