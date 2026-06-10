@@ -30,6 +30,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -83,6 +84,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -155,6 +157,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0216-combination-sum-iii/) | Medium |
+| [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
