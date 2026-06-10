@@ -1,29 +1,18 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        
         G=defaultdict(set)
-        visited = {} ## 1:current path 2:PRevious branch
-        res=[]
+        ind=defaultdict(int)
         for u,v in prerequisites:
             G[v].add(u)
-      
-        def dfs(node):
-            if node not in visited:
-                visited[node]=1
-            elif visited[node]==1:
-                return False
-            elif visited[node]==2:
-                return True
-            for neigh in G[node]:
-                if not dfs(neigh):
-                    return False
-            visited[node]=2
+            ind[u]+=1
+        q=[course for course in range(numCourses) if ind[course]==0]
+        q=deque(q)
+        res=[]
+        while q:
+            node=q.popleft()
             res.append(node)
-            return True
-            
-        return res[::-1] if all([dfs(i) for i in range(numCourses)]) and len(res)==numCourses else []
-
-
-
-
-     
+            for neigh in G[node]:
+                ind[neigh]-=1
+                if ind[neigh]==0:
+                    q.append(neigh)
+        return res if len(res)==numCourses else []
