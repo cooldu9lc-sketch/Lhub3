@@ -14,6 +14,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0036-valid-sudoku](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
@@ -134,6 +135,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0069-sqrtx/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
@@ -262,6 +264,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
