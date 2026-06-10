@@ -172,6 +172,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0207-course-schedule](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -184,6 +185,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -193,6 +195,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
@@ -339,4 +342,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
