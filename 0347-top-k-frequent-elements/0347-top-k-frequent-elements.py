@@ -1,10 +1,12 @@
 from collections import Counter
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count = Counter(nums)
-        unique = list(count.keys())
         
-        def partition(left, right, pivot_index) -> int:
+        
+        def partition(left, right) -> int:
+                
+            # Select a random pivot_index
+            pivot_index = random.randint(left, right) 
             pivot_frequency = count[unique[pivot_index]]
             # 1. Move the pivot to end
             unique[pivot_index], unique[right] = unique[right], unique[pivot_index]  
@@ -29,12 +31,11 @@ class Solution:
             # base case: the list contains only one element
             if left == right: 
                 return
-            
-            # Select a random pivot_index
-            pivot_index = random.randint(left, right)     
+        
+                
                             
             # Find the pivot position in a sorted list   
-            pivot_index = partition(left, right, pivot_index)
+            pivot_index = partition(left, right)
             
             # If the pivot is in its final sorted position
             if k_smallest == pivot_index:
@@ -45,8 +46,11 @@ class Solution:
             # go right
             else:
                 quickselect(pivot_index + 1, right, k_smallest)
-         
+        
+        count = Counter(nums)
+        unique = list(count.keys())
         n = len(unique) 
+       
         # kth top frequent element is (n - k)th less frequent.
         # Do a partial sort: from less frequent to the most frequent, till
         # (n - k)th less frequent element takes its place (n - k) in a sorted array. 
