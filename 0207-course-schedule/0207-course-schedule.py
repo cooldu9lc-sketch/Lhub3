@@ -2,31 +2,19 @@ class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         
         G=defaultdict(set)
-        visited = {} ## 1:current path 2:PRevious branch
+        ind=defaultdict(int)
         for u,v in prerequisites:
             #G[u].add(v)
             G[v].add(u)
-      
-        def dfs(node):
-            if node not in visited:
-                visited[node]=1
-            elif node in visited and visited[node]==1:
-                return False
-            elif visited[node]==2:
-                return True
+            ind[u]+=1
+        q=[course for course in range(numCourses) if ind[course]==0]
+        q=deque(q)
+        taken=0
+        while q:
+            node=q.popleft()
+            taken+=1
             for neigh in G[node]:
-                if not dfs(neigh):
-                    return False
-            visited[node]=2
-            return True
-            
-            
-
-
-
-        return all([dfs(i) for i in range(1,numCourses)])
-
-
-
-
-     
+                ind[neigh]-=1
+                if ind[neigh]==0:
+                    q.append(neigh)
+        return taken==numCourses
