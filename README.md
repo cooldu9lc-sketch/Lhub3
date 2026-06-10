@@ -29,6 +29,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
@@ -98,6 +99,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +196,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +257,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +292,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,4 +305,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
