@@ -20,6 +20,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0216-combination-sum-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0216-combination-sum-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -43,6 +44,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
@@ -91,6 +93,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
@@ -186,6 +189,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -248,6 +252,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,8 +286,17 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
