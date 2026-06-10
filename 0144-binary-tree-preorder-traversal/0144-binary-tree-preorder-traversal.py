@@ -1,17 +1,22 @@
-class Solution(object):
+class Solution:
     def preorderTraversal(self, root: TreeNode) -> List[int]:
-        if root is None:
-            return []
+        node, output = root, []
+        while node:
+            if not node.left:
+                output.append(node.val)
+                node = node.right
+            else:
+                predecessor = node.left
 
-        stack, output = [root,], []
+                while predecessor.right and predecessor.right is not node:
+                    predecessor = predecessor.right
 
-        while stack:
-            root = stack.pop()
-            if root is not None:
-                output.append(root.val)
-                if root.right is not None:
-                    stack.append(root.right)
-                if root.left is not None:
-                    stack.append(root.left)
+                if not predecessor.right:
+                    output.append(node.val)
+                    predecessor.right = node
+                    node = node.left
+                else:
+                    predecessor.right = None
+                    node = node.right
 
         return output
