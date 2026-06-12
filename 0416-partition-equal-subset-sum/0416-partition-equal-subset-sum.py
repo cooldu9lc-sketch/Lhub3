@@ -7,23 +7,6 @@ class Solution:
         if total_sum % 2 != 0:
             return False
         subset_sum = total_sum // 2
-
-        # construct a dp table of size (subset_sum + 1)
-        dp = [False] * (subset_sum + 1)
-        dp[0] = True
-        for curr in nums:
-            for j in range(subset_sum, curr - 1, -1):
-                dp[j] = dp[j] or dp[j - curr]
-
-        return dp[subset_sum]
-
-        """
-     
-
-        # if total_sum is odd, it cannot be partitioned into equal sum subsets
-        if total_sum % 2 != 0:
-            return False
-        subset_sum = total_sum // 2
         n = len(nums)
 
         # construct a dp table of size (n+1) x (subset_sum + 1)
@@ -37,4 +20,3 @@ class Solution:
                 else:
                     dp[i][j] = dp[i - 1][j] or dp[i - 1][j - curr]
         return dp[n][subset_sum]
-        """
