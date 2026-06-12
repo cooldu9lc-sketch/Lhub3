@@ -5,7 +5,6 @@ class Solution:
         if m==0 or n==0:
             return max(m,n)
         dp= list(range(n+1))
-        diag=0
         for i in range(1,m+1):
             dp[0]= i
             diag=i-1
