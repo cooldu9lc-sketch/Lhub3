@@ -224,6 +224,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -297,6 +298,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -308,6 +310,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -383,6 +386,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
