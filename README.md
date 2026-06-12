@@ -101,6 +101,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 ## Greedy
@@ -148,6 +149,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
