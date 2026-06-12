@@ -98,6 +98,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0213-house-robber-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0221-maximal-square/) | Medium |
 | [0256-paint-house](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0256-paint-house/) | Medium |
+| [0276-paint-fence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0276-paint-fence/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
