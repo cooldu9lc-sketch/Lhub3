@@ -1,22 +1,27 @@
 class Solution:
     def isOneEditDistance(self, s: str, t: str) -> bool:
-        if len(s)>len(t):
-            s,t=t,s
-        if len(t)-len(s)>1:
+        replace=(len(s)==len(t))
+        insert= (len(s)+1==len(t))
+        delete= (len(s)-1==len(t))
+        if not any([replace,insert,delete]):
             return False
-        edited=False
-        i=j=0
-        while i<len(s):
-            if s[i]==t[j]:
+        op=i=j=0
+        while i<len(s) and j<len(t):
+            if s[i]!=t[j]:
+                if op:return False
+                if replace:
+                    op+=1
+                    i+=1
+                    j+=1
+                    continue
+                elif insert:
+                    j+=1
+                    op+=1
+                elif delete:
+                    i+=1
+                    op+=1
+            else:    
                 i+=1
                 j+=1
-                continue
-            if edited:
-                return False
-            edited=True
-            if len(s)==len(t):
-                i+=1
-                j+=1
-            else:
-                j+=1
-        return (j==len(t)-1 and not edited) or (j==len(t) and edited) or (len(s)==len(t) and edited)
+        ### The return condition makes sure that the edit distance=1 and not zero i.e s!=t
+        return  op==1 or(i==len(s)-1 and j==len(t)) or (i==len(s) and j==len(t)-1)
