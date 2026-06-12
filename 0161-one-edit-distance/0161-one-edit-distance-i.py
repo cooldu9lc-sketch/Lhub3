@@ -19,4 +19,6 @@ class Solution:
                 j+=1
             else:
                 j+=1
+        ### The return condition makes sure that the edit distance=1 and not zero i.e s!=t
+
         return (j==len(t)-1 and not edited) or (j==len(t) and edited) or (len(s)==len(t) and edited)
