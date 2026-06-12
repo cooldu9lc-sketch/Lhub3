@@ -128,6 +128,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0011-container-with-most-water](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0161-one-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0161-one-edit-distance/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0072-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0091-decode-ways/) | Medium |
+| [0161-one-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0161-one-edit-distance/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
