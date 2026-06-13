@@ -38,6 +38,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0252-meeting-rooms](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0256-paint-house](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0256-paint-house/) | Medium |
+| [0271-encode-and-decode-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -180,6 +181,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
+| [0271-encode-and-decode-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
@@ -370,6 +372,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0271-encode-and-decode-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
