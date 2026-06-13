@@ -42,6 +42,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0308-range-sum-query-2d-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
@@ -91,6 +92,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
@@ -364,12 +366,14 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0053-maximum-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,9 +455,15 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0308-range-sum-query-2d-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0308-range-sum-query-2d-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
