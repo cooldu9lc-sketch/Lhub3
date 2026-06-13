@@ -1,23 +1,27 @@
 class Solution:
     def splitArraySameAverage(self, nums: List[int]) -> bool:
+        n, S = len(nums), sum(nums)
+        if n == 1: 
+            return False
+            
+        # 1. Mathematical Pruning: Check if a valid length K is even possible
+        if not any((S * k) % n == 0 for k in range(1, n // 2 + 1)):
+            return False
+            
+        # dp[k] stores a set of all possible sums formed by exactly 'k' elements
+        dp = [set() for _ in range(n // 2 + 1)]
+        dp[0].add(0)
         
-       
-        n=len(nums)
-        if n==1:return False
-        total=sum(nums)
-        avg= total/n
-        #dp[len][s]= ith bit is set if dp[s] exists for length i
-        dp=[0]*(total+1)
-        dp[0]|=1
-        for i in range(1,n):
-            for s in range(total-nums[i],-1,-1):
-                if dp[s]:
-                    dp[s+nums[i]]|=(dp[s]<<1)
-            dp[nums[i]]|=2
-
-
-        for lenb in range(1,n):
-            if (total *lenb)%n==0:
-                sumb= int(avg*lenb)
-                if dp[sumb] & 1<<lenb:return True
+        # 2. Populate the DP Table
+        for num in nums:
+            # We iterate backwards to prevent using the same 'num' multiple times in one path
+            for k in range(n // 2, 0, -1):
+                for prev_sum in dp[k - 1]:
+                    dp[k].add(prev_sum + num)
+                    
+        # 3. Final Verification
+        for k in range(1, n // 2 + 1):
+            if (S * k) % n == 0 and (S * k) // n in dp[k]:
+                return True
+                
         return False
