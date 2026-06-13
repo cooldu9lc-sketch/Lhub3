@@ -1,38 +1,42 @@
+class SegmentTree:
+        def __init__(self, size:int):
+            self.l = size
+            self.tree = [0]*(2*size)
+            for i in range(self.l - 1, 0, -1):
+                self.tree[i] = self.tree[i<<1] + self.tree[i<<1|1]
+
+        def update(self, index: int, val: int) -> None:
+            n = self.l + index
+            self.tree[n] = self.tree[n]+val
+            while n > 1:
+                self.tree[n>>1] = self.tree[n] + self.tree[n^1]
+                n >>= 1
+
+        def sumRange(self, left: int, right: int) -> int:
+            m = self.l + left
+            n = self.l + right
+            res = 0
+            while m <= n:
+                if m & 1:
+                    res += self.tree[m]
+                    m += 1
+                m >>= 1
+                if n & 1 ==0:
+                    res += self.tree[n]
+                    n -= 1
+                n >>= 1
+            return res
+
 class Solution:
     def countSmaller(self, nums: List[int]) -> List[int]:
+        offset= 10**4
+        tree=SegmentTree(2*offset+1)
+        res=[]
+        count= Counter()
+        length=len(nums)
+        for i in range(length-1,-1,-1):
+            count[nums[i]+offset]+=1
+            res.append(tree.sumRange(0,nums[i]+offset-1))
+            tree.update(offset+nums[i],1)
+        return res[::-1]
         
-        def mergeSort(arr,left,right):
-            if left<right:
-                mid=(left+right)//2
-                mergeSort(arr,left,mid)
-                mergeSort(arr,mid+1,right)
-                merge(arr,left,right,mid)
-       
-        def merge(arr,left,right,mid):
-            i=left
-            j=mid+1
-            temp=[]
-            while i<=mid and j<=right:
-                if arr[i][0]<=arr[j][0]:
-                    res[arr[i][1]]+=j-mid-1
-                    temp.append(arr[i])
-                    i+=1
-                else:
-                    temp.append(arr[j])
-                    j+=1
-            while i<=mid:
-                res[arr[i][1]]+=j-mid-1
-                temp.append(arr[i])
-                i+=1
-            while j<=right:
-                temp.append(arr[j])
-                j+=1
-            for x in range(left,right+1):
-                arr[x]=temp[x-left]
-
-
-        arr=[(v,i) for i,v in enumerate(nums)]
-        n=len(nums)
-        res=[0]*n
-        mergeSort(arr,0,n-1)
-        return res
