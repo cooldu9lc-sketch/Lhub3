@@ -26,6 +26,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0084-largest-rectangle-in-histogram](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0090-subsets-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0198-house-robber/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0213-house-robber-ii/) | Medium |
@@ -186,6 +187,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0002-add-two-numbers](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0069-sqrtx/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
@@ -343,6 +345,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0094-binary-tree-inorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0739-daily-temperatures/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
