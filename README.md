@@ -67,6 +67,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
@@ -286,6 +287,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0021-merge-two-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,6 +360,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
@@ -423,4 +426,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0210-course-schedule-ii/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
