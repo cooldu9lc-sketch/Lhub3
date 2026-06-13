@@ -40,6 +40,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0256-paint-house](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0256-paint-house/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
@@ -360,6 +361,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Merge Sort
@@ -373,6 +375,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0271-encode-and-decode-strings/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -440,4 +443,12 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
