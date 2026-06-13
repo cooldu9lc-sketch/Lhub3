@@ -32,10 +32,8 @@ class Solution:
         offset= 10**4
         tree=SegmentTree(2*offset+1)
         res=[]
-        count= Counter()
         length=len(nums)
         for i in range(length-1,-1,-1):
-            count[nums[i]+offset]+=1
             res.append(tree.sumRange(0,nums[i]+offset-1))
             tree.update(offset+nums[i],1)
         return res[::-1]
