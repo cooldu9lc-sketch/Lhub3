@@ -1,22 +1,55 @@
+class Node:
+    def __init__(self, val=0, key=None, prev=None, next=None):
+        self.key = key
+        self.val = val
+        self.prev = prev
+        self.next = next
+
+    def remove(self):
+        self.prev.next, self.next.prev = self.next, self.prev
+
+    def insert(self, tail):
+        self.prev = tail.prev
+        self.next = tail
+        self.prev.next = self.next.prev = self
+
 class LRUCache:
-
     def __init__(self, capacity: int):
-        self.d=OrderedDict()
-        self.cap=capacity
-
+        self.d = {}
+        self.cap = capacity
+        self.head = Node(-1, -1)
+        self.tail = Node(-2, -2)
+        self.head.next = self.tail
+        self.tail.prev = self.head
+        self.size = 0
+    
     def get(self, key: int) -> int:
-        if key not in self.d:return -1
-        self.d.move_to_end(key)
-        return self.d[key]
-
+        if key not in self.d:
+            return -1
+            
+        node = self.d[key]
+        # Move the existing node to the tail (most recently used)
+        node.remove()
+        node.insert(self.tail)
+        return node.val
+        
     def put(self, key: int, value: int) -> None:
         if key in self.d:
-            self.d.move_to_end(key)
-        self.d[key]=value
-        if len(self.d)>self.cap:
-            self.d.popitem(last=False)
-
-# Your LRUCache object will be instantiated and called as such:
-# obj = LRUCache(capacity)
-# param_1 = obj.get(key)
-# obj.put(key,value)
+            node = self.d[key]
+            # Update value and move to tail
+            node.val = value
+            node.remove()
+            node.insert(self.tail)
+        else:
+            # FIX: Ensure both value and key are passed to the Node
+            new_node = Node(val=value, key=key)
+            self.d[key] = new_node
+            new_node.insert(self.tail)
+            self.size += 1
+            
+            # Eviction logic
+            if self.size > self.cap:
+                lru_node = self.head.next
+                lru_node.remove()
+                del self.d[lru_node.key] # Safe because we know the key is accurate now
+                self.size -= 1
