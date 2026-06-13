@@ -42,8 +42,6 @@ class NumMatrix:
         for r in range(row1,row2+1):
             s+=self.getSum(r,col2)-self.getSum(r,col1-1)
         return s
-        
-        
 
 # Your NumMatrix object will be instantiated and called as such:
 # obj = NumMatrix(matrix)
