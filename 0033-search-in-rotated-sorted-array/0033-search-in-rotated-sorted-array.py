@@ -13,5 +13,5 @@ class Solution:
             if ispossible(l,m,r):
                 l=m+1
             else:
-                r=m-1
+                r=m
         return l if nums[l]==target else -1
