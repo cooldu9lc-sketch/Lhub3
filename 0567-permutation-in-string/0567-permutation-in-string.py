@@ -1,14 +1,21 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        if len(s1)>len(s2):return False
-
-        pcount=Counter(s1)
-        scount=Counter(s2)
-        if pcount>scount:return False
-        curr=Counter()
-        for i in range(len(s2)):
-            curr[s2[i]]+=1
-            if i>=len(s1):curr[s2[i-len(s1)]]-=1
-            if curr==pcount:
+        m,n=len(s1),len(s2)
+        if m>n:return False
+        s1_count=collections.Counter(s1)
+        count=0
+        for end in range(n):
+            if s2[end] in s1_count:
+                if s1_count[s2[end]]>0:
+                    count+=1
+                s1_count[s2[end]]-=1
+            if end>=m:
+                char=s2[end-m]
+                if char in s1_count:
+                    s1_count[char]+=1
+                if s1_count[char]>0:
+                    count-=1
+                
+            if count==m:
                 return True
-        return curr==pcount
+        return False
