@@ -7,6 +7,12 @@ class Solution:
 
         p_count = Counter(p)
         s_count = Counter()
+        """
+        ## you always add the character even if the count becomes negative because
+        ## when you're removing the character from window , there can be 2 cases
+        ## the count of s[end-np] character is positive in which case we know that it was included in the window but if is zero we cannot tell  in which iteration the  count[s] was made zero. So we always make sure to to take all keys of p
+        and the count of an element if it's above zero or below zero tells us if its' part of the window
+        """
         
         output = []
         count=0
