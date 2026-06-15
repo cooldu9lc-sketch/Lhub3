@@ -1,39 +1,24 @@
 class Solution:
     def longestIncreasingPath(self, matrix: List[List[int]]) -> int:
         
-        rows = len(matrix)
-        if rows == 0:
-            return 0
+        max_len=0
+        def dfs(x, y, prev):
+            nonlocal max_len
+            if x < 0 or x >= len(matrix) or y < 0 or y >= len(matrix[0]) or matrix[x][y] <= prev: 
+                return 0
+            #if already calculated,return
+            if (x,y) in table:
+                return table[(x,y)]
+            path = 1 + max(dfs(x+1, y, matrix[x][y]), dfs(x-1, y, matrix[x][y]), dfs(x, y+1, matrix[x][y]), dfs(x, y-1, matrix[x][y]))
+            max_len = max(max_len, path)
+            #memoisation
+            table[(x,y)] = path
+            return path
         
-        cols = len(matrix[0])
-        indegree = [[0 for x in range(cols)] for y in range(rows)] 
-        directions = [(0, -1), (0, 1), (1, 0), (-1, 0)]
         
-        for x in range(rows):
-            for y in range(cols):
-                for direction in directions:
-                    nx, ny = x + direction[0], y + direction[1]
-                    if nx >= 0 and ny >= 0 and nx < rows and ny < cols:
-                        if matrix[nx][ny] < matrix[x][y]:
-                            indegree[x][y] += 1
-                            
-        queue = []
-        for x in range(rows):
-            for y in range(cols):
-                if indegree[x][y] == 0:
-                    queue.append((x, y))
-    
-        path_len = 0
-        while queue:
-            sz = len(queue)
-            for i in range(sz):
-                x, y = queue.pop(0)
-                for direction in directions:
-                    nx, ny = x + direction[0], y + direction[1]
-                    if nx >= 0 and ny >= 0 and nx < rows and ny < cols:
-                        if matrix[nx][ny] > matrix[x][y]:
-                            indegree[nx][ny] -= 1
-                            if indegree[nx][ny] == 0:
-                                queue.append((nx, ny))
-            path_len += 1
-        return path_len 
+        table = {}
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                dfs(i, j, float("-inf"))
+        return max_len
+        
