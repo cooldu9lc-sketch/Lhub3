@@ -49,6 +49,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0308-range-sum-query-2d-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
@@ -135,6 +136,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0276-paint-fence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0276-paint-fence/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -269,6 +271,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0070-climbing-stairs/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -292,6 +295,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0261-graph-valid-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0337-house-robber-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -311,6 +315,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
@@ -324,6 +329,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0261-graph-valid-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -411,6 +417,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0221-maximal-square](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0221-maximal-square/) | Medium |
 | [0308-range-sum-query-2d-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -520,6 +527,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0207-course-schedule](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0210-course-schedule-ii/) | Medium |
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
