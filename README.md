@@ -206,6 +206,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0007-reverse-integer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -319,6 +320,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0002-add-two-numbers](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0143-reorder-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
