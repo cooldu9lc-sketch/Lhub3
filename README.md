@@ -182,6 +182,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0022-generate-parentheses/) | Medium |
+| [0043-multiply-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
@@ -203,6 +204,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0007-reverse-integer/) | Medium |
+| [0043-multiply-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -479,4 +481,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
