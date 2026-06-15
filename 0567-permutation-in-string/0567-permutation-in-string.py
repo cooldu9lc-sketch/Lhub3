@@ -3,7 +3,6 @@ class Solution:
         m,n=len(s1),len(s2)
         if m>n:return False
         s1_count=collections.Counter(s1)
-        #s2_count=collections.Counter()
         count=0
         for end in range(n):
             if s2[end] in s1_count:
