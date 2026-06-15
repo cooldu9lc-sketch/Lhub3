@@ -9,6 +9,7 @@ class Solution:
             n=-n
 
         result=1
+      
 
         while n:
             if n%2:
@@ -17,5 +18,5 @@ class Solution:
             
             x*=x
             n//=2
-            #result*=x
+           
         return result
