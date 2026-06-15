@@ -81,6 +81,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0567-permutation-in-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0567-permutation-in-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
@@ -181,6 +182,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0143-reorder-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0143-reorder-list/) | Medium |
 | [0161-one-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0161-one-edit-distance/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0567-permutation-in-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 ## String
@@ -205,6 +207,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
+| [0567-permutation-in-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0567-permutation-in-string/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
@@ -338,6 +341,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0567-permutation-in-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
