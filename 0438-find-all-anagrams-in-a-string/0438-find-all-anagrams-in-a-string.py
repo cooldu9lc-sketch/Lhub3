@@ -6,7 +6,6 @@ class Solution:
             return []
 
         p_count = Counter(p)
-        s_count = Counter()
         """
         ## you always add the character even if the count becomes negative because
         ## when you're removing the character from window , there can be 2 cases
