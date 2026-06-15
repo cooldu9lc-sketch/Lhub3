@@ -264,6 +264,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0337-house-robber-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -341,6 +342,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0337-house-robber-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -354,6 +356,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0337-house-robber-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -492,4 +495,12 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0043-multiply-strings/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
