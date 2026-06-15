@@ -76,6 +76,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
@@ -198,6 +199,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0043-multiply-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0097-interleaving-string/) | Medium |
@@ -343,6 +345,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0567-permutation-in-string/) | Medium |
 ## Tree
