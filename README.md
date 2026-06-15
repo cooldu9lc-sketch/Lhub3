@@ -291,6 +291,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0261-graph-valid-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0337-house-robber-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -309,6 +310,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0261-graph-valid-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
@@ -321,6 +323,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0210-course-schedule-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0210-course-schedule-ii/) | Medium |
 | [0261-graph-valid-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -505,6 +508,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0261-graph-valid-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0261-graph-valid-tree/) | Medium |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
