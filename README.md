@@ -170,6 +170,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0161-one-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0161-one-edit-distance/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -307,6 +308,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
