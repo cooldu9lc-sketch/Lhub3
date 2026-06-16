@@ -66,6 +66,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0518-coin-change-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [0759-employee-free-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0759-employee-free-time/) | Hard |
@@ -164,6 +165,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
@@ -185,6 +187,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0435-non-overlapping-intervals](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
