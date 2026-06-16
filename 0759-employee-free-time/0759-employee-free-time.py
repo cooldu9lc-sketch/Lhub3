@@ -8,27 +8,25 @@ class Interval:
 
 class Solution:
     def employeeFreeTime(self, schedule: '[[Interval]]') -> '[Interval]':
-         # idea: similar like merge interval + merge k lists
-        #       put the first interval, employee idx and interval idx in a heap
-        #       if next interval is not overlapping, calc the gap and save in result
-        #       take the next interval and repeat merging.
+        OPEN, CLOSE = 1, 2
+        events = []
         
-        min_heap, res = [], []
+        for lst in schedule:
+            for interv in lst:
+                events.append((interv.start, OPEN))
+                events.append((interv.end, CLOSE))
         
-        for i in range(len(schedule)):
-            # the last elem in tuple is next idx of interval for the employee
-            heapq.heappush(min_heap, (schedule[i][0].start, schedule[i][0].end, i, 1))
+        balance = 0
+        events.sort()
+        ans = []
+        prev = None
         
-        end = min_heap[0][1]
+        for time, eventType in events:
+            if balance == 0 and prev is not None:
+                ans.append(Interval(prev, time))
+            balance+= 1 if eventType ==OPEN else -1
+            
+            if balance == 0:
+                prev = time
         
-        while min_heap:
-            new_start, new_end, i, j = heapq.heappop(min_heap)
-            if new_start <= end:
-                end = max(end, new_end)
-            else:
-                res.append(Interval(end, new_start))
-                end = new_end
-            if j < len(schedule[i]):
-                heapq.heappush(min_heap, (schedule[i][j].start, schedule[i][j].end, i, j+1))
-        
-        return res
+        return ans
