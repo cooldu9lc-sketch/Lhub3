@@ -3,12 +3,15 @@ class Solution:
         if not prices:
             return 0
        
-        states = [0] + [float('-inf')] * (2*k) 
-       
- 
+        buy = [float('-inf')] * (k + 1)
+        sell = [0] * (k + 1)
+
         for p in prices:
-            for j in range(k):
-                states[2*j+1] = max(states[2*j+1], states[2*j]-p)
-                states[2*j+2] =   max(states[2*j+2], states[2*j+1]+p)
+            for t in range(1, k + 1):
+                buy[t] = max(buy[t],sell[t - 1] - p)
+
+                sell[t] = max(sell[t],buy[t] + p)
+
+        return sell[k]
         
-        return max(0, states[-1])
+       
