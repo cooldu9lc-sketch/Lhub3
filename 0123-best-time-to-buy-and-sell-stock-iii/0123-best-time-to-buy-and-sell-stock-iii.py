@@ -1,14 +1,21 @@
 class Solution(object):
     def maxProfit(self, prices):
-    
-        k=2
-        buy = [float('-inf')] * (k + 1)
-        sell = [0] * (k + 1)
+        """
+        :type prices: List[int]
+        :rtype: int
+        """
+        
+        buy1 = float('-inf')
+        buy2 = float('-inf')
+
+        sell1 = 0
+        sell2 = 0
 
         for p in prices:
-            for t in range(1, k + 1):
-                buy[t] = max(buy[t],sell[t - 1] - p)
+            buy1 = max(buy1, -p)
+            sell1 = max(sell1, buy1 + p)
 
-                sell[t] = max(sell[t],buy[t] + p)
+            buy2 = max(buy2, sell1 - p)
+            sell2 = max(sell2, buy2 + p)
 
-        return sell[k]
+        return sell2
