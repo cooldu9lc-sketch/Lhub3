@@ -4,15 +4,18 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        if not prices:
-            return 0
-        k = 2
-        states = [0] + [float('-inf')] * (2*k) 
-       
- 
-        for p in prices:
-            for j in range(k):
-                states[2*j+1] = max(states[2*j+1], states[2*j]-p)
-                states[2*j+2] =   max(states[2*j+2], states[2*j+1]+p)
         
-        return max(0, states[-1])
+        buy1 = float('-inf')
+        buy2 = float('-inf')
+
+        sell1 = 0
+        sell2 = 0
+
+        for p in prices:
+            buy1 = max(buy1, -p)
+            sell1 = max(sell1, buy1 + p)
+
+            buy2 = max(buy2, sell1 - p)
+            sell2 = max(sell2, buy2 + p)
+
+        return sell2
