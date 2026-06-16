@@ -106,6 +106,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0567-permutation-in-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0621-task-scheduler/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
+| [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
@@ -197,6 +198,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0621-task-scheduler](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0759-employee-free-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0759-employee-free-time/) | Hard |
+| [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -267,6 +270,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0567-permutation-in-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0567-permutation-in-string/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -392,6 +396,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0759-employee-free-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0759-employee-free-time/) | Hard |
+| [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
@@ -555,6 +560,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0358-rearrange-string-k-distance-apart](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0358-rearrange-string-k-distance-apart/) | Hard |
 | [0621-task-scheduler](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
