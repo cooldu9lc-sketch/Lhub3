@@ -8,9 +8,14 @@ class Solution:
             low=price
         return res"""
 
-        if len(prices)==1:return 0
-        res=0
-        for i in range(1,len(prices)):
-            if prices[i]>prices[i-1]:
-                res+=prices[i]-prices[i-1]
-        return res
+        hold = float('-inf')
+        cash = 0
+
+        for p in prices:
+            old_hold = hold
+
+            hold = max(hold,cash - p)
+
+            cash = max(cash,old_hold + p)
+
+        return cash
