@@ -1,13 +1,20 @@
 from functools import lru_cache
 class Solution:
     def minScoreTriangulation(self, values: List[int]) -> int:
-        
-        @lru_cache(None)
-        def dfs(left, right):
-            if right - left + 1 < 3:
-                return 0
-            minnum = float("Inf")
-            for k in range(left+1, right):
-                minnum = min(minnum, values[left]*values[right]*values[k] + dfs(left, k) + dfs(k, right))
-            return minnum
-        return dfs(0, len(values) - 1)
+      
+
+        n = len(values)
+
+        dp = [[0] * n for _ in range(n)]
+
+        for l in range(n - 1, -1, -1):
+
+            for r in range(l + 2, n): ##gap should be at least 2
+
+                dp[l][r] = float('inf')
+
+                for k in range(l + 1, r): #both left and right are not included and used as
+
+                    dp[l][r] = min(dp[l][r],dp[l][k]+ dp[k][r]+ values[l] * values[k] * values[r])
+
+        return dp[0][n - 1]
