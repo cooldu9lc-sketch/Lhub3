@@ -1,14 +1,22 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
-        s=list(s)
+        if len(s)<=1:return s
         n=len(s)
-        count = Counter(s)
-        s.sort(key=lambda x: (count[x],x))
-
-        if count[s[-1]]>(n+1)//2:return ""
-        res= [""]*n
-        for i in range(0,n,2):
-            res[i]=s.pop()
-        for i in range(1,n,2):
-            res[i]=s.pop()
-        return "".join(res)        
+        counter = Counter(s)
+        heap=[(-cnt,s) for s,cnt in counter.items()]
+        heapq.heapify(heap)
+        print(heap)
+        if heap[0][0]*-1 > (n+1)//2 : return ""
+        
+        res=[]
+        while len(heap)>1:
+            count1,char1= heapq.heappop(heap)
+            count2,char2 =heapq.heappop(heap)
+            res+=[char1,char2]
+            count1+=1
+            count2+=1
+            if count1:heapq.heappush(heap, (count1,char1))
+            if count2:heapq.heappush(heap, (count2,char2))
+        if heap:
+            res.append(heapq.heappop(heap)[1])
+        return "".join(res)
