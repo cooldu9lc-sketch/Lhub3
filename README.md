@@ -74,6 +74,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
@@ -177,6 +178,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0435-non-overlapping-intervals](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0759-employee-free-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0759-employee-free-time/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -368,6 +371,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
