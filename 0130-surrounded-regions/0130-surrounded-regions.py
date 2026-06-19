@@ -1,39 +1,36 @@
-class Solution:
-    def solve(self, board: List[List[str]]) -> None:
+class Solution(object):
+    def solve(self, board):
         """
-        Do not return anything, modify board in-place instead.
+        :type board: List[List[str]]
+        :rtype: None Do not return anything, modify board in-place instead.
         """
-        
-        def dfs(i,j,m,n):
-            if i<=0 or i>=m-1 or j<=0 or j>=n-1 or board[i][j]!="O":
-                return 
-            board[i][j]="#"
-            dfs(i+1,j,m,n)
-            dfs(i-1,j,m,n)
-            dfs(i,j+1,m,n)
-            dfs(i,j-1,m,n)
-        
-        
-        m,n=len(board),len(board[0])
-        for i in range(n):
-            if board[0][i]=="O":
-                dfs(1,i,m,n)
-            if m!=1 and board[m-1][i]=="O":
-                dfs(m-2,i,m,n)
-            
-        for i in range(m):
-            if board[i][0]=="O":
-                dfs(i,1,m,n)
-            if n!=1 and board[i][n-1]=="O":
-                dfs(i,n-2,m,n)
-                
-        for i in range(1,m-1):
-            for j in range(1,n-1):
-                if board[i][j]=="O":
-                    board[i][j]="X"
-                elif board[i][j]=="#":
-                    board[i][j]="O"
-        
-                
-        
-            
+        if not board or not board[0]:
+            return
+
+        self.ROWS = len(board)
+        self.COLS = len(board[0])
+
+        # Step 1). retrieve all border cells
+        from itertools import product
+        borders = list(product(range(self.ROWS), [0, self.COLS-1])) \
+                + list(product([0, self.ROWS-1], range(self.COLS)))
+
+        # Step 2). mark the "escaped" cells, with any placeholder, e.g. 'E'
+        for row, col in borders:
+            self.DFS(board, row, col)
+
+        # Step 3). flip the captured cells ('O'->'X') and the escaped one ('E'->'O')
+        for r in range(self.ROWS):
+            for c in range(self.COLS):
+                if board[r][c] == 'O':   board[r][c] = 'X'  # captured
+                elif board[r][c] == 'E': board[r][c] = 'O'  # escaped
+
+
+    def DFS(self, board, row, col):
+        if board[row][col] != 'O':
+            return
+        board[row][col] = 'E'
+        if col < self.COLS-1: self.DFS(board, row, col+1)
+        if row < self.ROWS-1: self.DFS(board, row+1, col)
+        if col > 0: self.DFS(board, row, col-1)
+        if row > 0: self.DFS(board, row-1, col)
