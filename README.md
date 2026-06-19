@@ -86,6 +86,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1834-single-threaded-cpu](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
 ## Hash Table
@@ -232,6 +233,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1834-single-threaded-cpu](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -410,6 +412,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
