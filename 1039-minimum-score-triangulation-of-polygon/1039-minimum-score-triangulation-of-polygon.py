@@ -14,7 +14,7 @@ class Solution:
 
                 dp[l][r] = float('inf')
 
-                for k in range(l + 1, r): #both left and right are not included and used as
+                for k in range(l + 1, r): #both left and right are not included and used as triangle vertices so r-l+k>=3
 
                     dp[l][r] = min(dp[l][r],dp[l][k]+ dp[k][r]+ values[l] * values[k] * values[r])
 
