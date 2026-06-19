@@ -10,7 +10,8 @@ class Solution:
     def cloneGraph(self, node: 'Node') -> 'Node':
         if not node:return None
         
-        mydic=dict()
+        mydic=defaultdict(lambda: Node())
+        
         def dfs(node):
             if node.val in mydic:
                 return mydic[node.val]
