@@ -12,7 +12,7 @@ class Solution:
                 #r = l + gap
                 dp[l][r] = float('inf')
 
-                for k in range(l+1, r):
+                for k in range(l, r):
                     cost = dp[l][k] + dp[k][r] + (cuts[r] - cuts[l])
                     dp[l][r] = min(dp[l][r], cost)
 
