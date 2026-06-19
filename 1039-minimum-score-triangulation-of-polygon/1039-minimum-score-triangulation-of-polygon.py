@@ -10,6 +10,7 @@ class Solution:
         for l in range(n - 1, -1, -1):
 
             for r in range(l + 2, n): ##gap should be at least 2
+            ## so r-l>=2
 
                 dp[l][r] = float('inf')
 
