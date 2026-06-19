@@ -8,9 +8,9 @@ class Solution:
 
         # length is the distance between l and r
         # we need at least one balloon inside, so r - l >= 2
-        for length in range(2, n):
-            for l in range(0, n - length):
-                r = l + length
+        for l in range(n-1,-1,-1):
+            for r in range(l+2,n):
+                #r = l + length
                 best = 0
 
                 for k in range(l + 1, r):
