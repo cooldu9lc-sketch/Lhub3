@@ -150,6 +150,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0045-jump-game-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0085-maximal-rectangle/) | Hard |
@@ -302,6 +303,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0043-multiply-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0070-climbing-stairs/) | Easy |
@@ -657,4 +659,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0759-employee-free-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0759-employee-free-time/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
