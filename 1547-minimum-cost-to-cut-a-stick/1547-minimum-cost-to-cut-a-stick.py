@@ -6,7 +6,7 @@ class Solution:
         dp = [[0] * m for _ in range(m)]
 
         # gap = r - l
-        # gap = 1 means no internal cut => cost 0
+        # gap = 1 means no internal cut (because of sentinel nodes) => cost 0
         for gap in range(2, m):
             for l in range(0, m - gap):
                 r = l + gap
