@@ -184,6 +184,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0740-delete-and-earn/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0790-domino-and-tromino-tiling](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
