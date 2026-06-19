@@ -11,11 +11,12 @@ class Solution:
         if not node:return None
         
         mydic=defaultdict(lambda: Node())
-        
+
         def dfs(node):
             if node.val in mydic:
                 return mydic[node.val]
-            clonenode=mydic.setdefault(node.val,Node(node.val))
+            clonenode =mydic[node.val]
+            clonenode.val = node.val
             for neigh in node.neighbors:
                 clonenode.neighbors.append(dfs(neigh))
             return clonenode
