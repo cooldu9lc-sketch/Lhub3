@@ -7,6 +7,9 @@ class Solution:
         full = [0]*(n+1)
         gap = [0]*(n+1)
 
+        ##f(i): The number of ways to fully cover a board of width i
+        ##g(i): The number of ways to partially cover a board of width i
+
         full[0] = 1
         full[1] = 1
 
