@@ -85,6 +85,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
 ## Hash Table
@@ -187,6 +188,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1049-last-stone-weight-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2466-count-ways-to-build-good-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
