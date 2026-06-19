@@ -37,6 +37,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -107,6 +108,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0076-minimum-window-substring](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0146-lru-cache/) | Medium |
@@ -631,6 +633,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0261-graph-valid-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
