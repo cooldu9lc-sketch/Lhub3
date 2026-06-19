@@ -39,6 +39,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -346,6 +347,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0136-single-number/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
 ## Memoization
