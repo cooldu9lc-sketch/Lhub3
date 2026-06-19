@@ -12,7 +12,7 @@ class Solution:
                 #r = l + gap
                 dp[l][r] = float('inf')
 
-                for k in range(l, r):
+                for k in range(l+1, r): ##k is included here because we only need two vertices r-l>=2 to make a valid dp[l,k] or d
                     cost = dp[l][k] + dp[k][r] + (cuts[r] - cuts[l])
                     dp[l][r] = min(dp[l][r], cost)
 
