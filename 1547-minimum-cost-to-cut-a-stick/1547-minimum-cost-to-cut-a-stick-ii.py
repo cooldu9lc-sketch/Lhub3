@@ -1,19 +1,19 @@
 class Solution:
     def minCost(self, n: int, cuts: List[int]) -> int:
-        cuts = [0] + sorted(cuts) + [n]
-        m = len(cuts)
+        c = [0] + sorted(cuts) + [n]
+        m = len(c)
 
         dp = [[0] * m for _ in range(m)]
 
         # gap = r - l
-        # gap = 1 means no internal cut (because of sentinel nodes) => cost 0
-        for l in range(m-1,-1, -1):
-            for r in range(l+2, m):
-                #r = l + gap
+        # gap = 1 means no internal cut => cost 0
+        for gap in range(2, m):
+            for l in range(0, m - gap):
+                r = l + gap
                 dp[l][r] = float('inf')
 
-                for k in range(l+1, r): ##k is included here because we only need two vertices r-l>=2 to make a valid dp[l,k] or d
-                    cost = dp[l][k] + dp[k][r] + (cuts[r] - cuts[l])
+                for k in range(l + 1, r):
+                    cost = dp[l][k] + dp[k][r] + (c[r] - c[l])
                     dp[l][r] = min(dp[l][r], cost)
 
         return dp[0][m - 1]
