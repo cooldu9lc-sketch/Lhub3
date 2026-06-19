@@ -82,6 +82,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -115,6 +116,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0981-time-based-key-value-store](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
 ## Binary Search
@@ -207,6 +209,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
+| [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -231,6 +234,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1834-single-threaded-cpu](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -410,6 +414,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -573,6 +578,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0358-rearrange-string-k-distance-apart](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0358-rearrange-string-k-distance-apart/) | Hard |
 | [0621-task-scheduler](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
+| [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
