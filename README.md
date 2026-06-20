@@ -144,6 +144,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 | [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -295,6 +296,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0647-palindromic-substrings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,6 +563,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0572-subtree-of-another-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,6 +587,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0572-subtree-of-another-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
