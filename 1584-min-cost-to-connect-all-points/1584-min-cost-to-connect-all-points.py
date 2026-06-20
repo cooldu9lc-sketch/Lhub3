@@ -4,16 +4,21 @@ class Solution:
         n=len(points)
         heap=[(0,0)]
         seen=set()
-        vertices=res=0
+        dist= [float("inf")] *n
+
+        ## You stil need seen set while using dist array because dist array could get updated within the inner for loop before it is popped.
+        ## Seen is exclusively used to check if a node is then popped or not
+
+        res=0
         ##### PRIMS ALGORITHM
-        while heap and vertices<n:
-            cost,idx=heapq.heappop(heap)
-            if idx in seen:continue
+        while heap and len(seen)<n:
+            weight,idx=heapq.heappop(heap)
+            if idx in seen or dist[idx]<weight:continue
             seen.add(idx)
-            res+=cost
-            vertices+=1
+            dist[idx]=weight
+            res+=weight
             for i,(x,y) in enumerate(points):
-                if i in seen:continue
+                if i in seen or (next_weight:=distance(idx,i))>dist[i]:continue
                 heapq.heappush(heap,(distance(idx,i),i))
         return res
 
