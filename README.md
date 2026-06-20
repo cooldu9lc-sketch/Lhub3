@@ -362,6 +362,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0191-number-of-1-bits/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
 ## Memoization
@@ -594,6 +595,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0023-merge-k-sorted-lists](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0191-number-of-1-bits](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
