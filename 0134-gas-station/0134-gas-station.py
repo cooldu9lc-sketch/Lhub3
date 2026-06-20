@@ -9,7 +9,7 @@ class Solution:
         for i in range(n):
             total_cost+=cost[i]
             total_gas += gas[i] 
-            curr= curr+gas[i]-cost[i]
+            curr= curr+gas[i]-cost[i] ##TO GET TO INDEX i
             if curr<0:
                 curr=0
                 start_idx = (i+1)
