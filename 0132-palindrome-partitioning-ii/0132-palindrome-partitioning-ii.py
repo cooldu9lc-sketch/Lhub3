@@ -11,15 +11,18 @@ class Solution:
                     
         # 2. Compute Minimum Cuts (1D DP)
         # cuts[i] = max possible cuts is 'i' (cutting every single character)
-        cuts = [i for i in range(n)] 
+        cuts = list(range(n)) # Cleaner initialization
         
-        for end in range(n):
-            if dp[0][end]:
-                cuts[end]=0
-            else:
-                for start in range(end):
-                    if dp[start+1][end]:
-                        cuts[end] = min(cuts[end], cuts[start] + 1)
+        for i in range(n):
+            # j is the START index of the substring ending at i
+            for j in range(i + 1):  ##Notice that j runs till i+1 covering j==i scenario
+                if dp[j][i]: # Reads naturally: "If s[j...i] is a palindrome"
+                    if j == 0:
+                        # The entire prefix s[0...i] is a palindrome
+                        cuts[i] = 0 
+                    else:
+                        # Make a cut right before j. 
+                        # Cuts needed = cuts for s[0...j-1] + 1 new cut
+                        cuts[i] = min(cuts[i], cuts[j - 1] + 1)
                         
         return cuts[n - 1]
-       
