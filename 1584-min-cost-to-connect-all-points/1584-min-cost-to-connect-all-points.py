@@ -17,4 +17,3 @@ class Solution:
                 heapq.heappush(heap,(distance(idx,i),i))
         return res
 
-
