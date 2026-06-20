@@ -97,6 +97,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
@@ -439,6 +440,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -661,10 +663,12 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0684-redundant-connection](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0684-redundant-connection/) | Medium |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1135-connecting-cities-with-minimum-cost/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
