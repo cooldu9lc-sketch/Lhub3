@@ -21,8 +21,5 @@ class Solution:
         if loner & (1<<31):
             return loner - (1<<32)
         return loner
-        # Do not mistaken sign bit for MSB.
-       
-        return ~( loner ^ 0xFFFFFFFF)
         
       
