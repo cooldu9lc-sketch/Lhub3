@@ -96,6 +96,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0759-employee-free-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0759-employee-free-time/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0853-car-fleet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
@@ -288,6 +289,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0759-employee-free-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0759-employee-free-time/) | Hard |
 | [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
+| [0853-car-fleet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
 | [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
@@ -668,6 +670,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0853-car-fleet/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -761,6 +764,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0084-largest-rectangle-in-histogram](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0085-maximal-rectangle/) | Hard |
 | [0739-daily-temperatures](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0853-car-fleet/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
