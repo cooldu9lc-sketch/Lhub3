@@ -112,6 +112,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1584-min-cost-to-connect-all-points](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2013-detect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/2013-detect-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -263,6 +264,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0767-reorganize-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0767-reorganize-string/) | Medium |
 | [1054-distant-barcodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1054-distant-barcodes/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
