@@ -81,6 +81,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0410-split-array-largest-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
@@ -139,6 +140,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0347-top-k-frequent-elements](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0355-design-twitter/) | Medium |
 | [0358-rearrange-string-k-distance-apart](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0358-rearrange-string-k-distance-apart/) | Hard |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0621-task-scheduler/) | Medium |
@@ -404,6 +406,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0260-single-number-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
 ## Memoization
@@ -704,6 +707,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0208-implement-trie-prefix-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0212-word-search-ii/) | Hard |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0642-design-search-autocomplete-system/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
