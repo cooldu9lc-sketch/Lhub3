@@ -1,16 +1,32 @@
 class Solution:
     def findMaximumXOR(self, nums: List[int]) -> int:
+        # Compute length L of max number in a binary representation
+        L = len(bin(max(nums))) - 2
+        # zero left-padding to ensure L bits for each number
+        nums = [[(x >> i) & 1 for i in range(L)][::-1] for x in nums]
+        
+        max_xor = 0
+        trie = {}
+        for num in nums:
+            node = trie
+            xor_node = trie
+            curr_xor = 0
+            for bit in num:
+                # insert new number in trie
+                if not bit in node:
+                    node[bit] = {}
+                node = node[bit]
+                
+                # to compute the max xor of that new number 
+                # with all previously inserted
+                toggled_bit = 1 - bit
+                if toggled_bit in xor_node:
+                    curr_xor = (curr_xor << 1) | 1
+                    xor_node = xor_node[toggled_bit]
+                else:
+                    curr_xor = curr_xor << 1
+                    xor_node = xor_node[bit]
+                    
+            max_xor = max(max_xor, curr_xor)
 
-        L=len(bin(max(nums))) - 2
-        mask=ans=0
-        for i in range(L-1,-1,-1):
-            mask|=1<<i ###all ones
-            prefixes={mask & num for num in nums}
-            required=ans|1<<i
-            ## we need to find two numbers p1 and p2 in prefixes such that p1^p2=required
-            ## meaning p1^required = p2
-            
-            if any(required^prefix in prefixes for prefix in prefixes):
-                ans=required
-           
-        return ans
+        return max_xor
