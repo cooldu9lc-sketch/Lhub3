@@ -361,6 +361,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0070-climbing-stairs](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0231-power-of-two/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
@@ -390,6 +391,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0136-single-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
@@ -548,6 +550,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0044-wildcard-matching](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0143-reorder-list/) | Medium |
+| [0231-power-of-two](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0231-power-of-two/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
