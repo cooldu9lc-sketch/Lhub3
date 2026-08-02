@@ -848,4 +848,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0239-sliding-window-maximum/) | Hard |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1279-traffic-light-controlled-intersection](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1279-traffic-light-controlled-intersection/) | Easy |
 <!---LeetCode Topics End-->
