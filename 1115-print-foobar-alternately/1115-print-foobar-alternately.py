@@ -1,24 +1,19 @@
-import threading
+from threading import Semaphore
+
 class FooBar:
     def __init__(self, n):
         self.n = n
-        self.foolock = threading.Lock()
-        self.barlock = threading.Lock()
-        self.barlock.acquire()
+        self.foo_sem = Semaphore(1) # Foo goes first
+        self.bar_sem = Semaphore(0) # Bar waits
 
     def foo(self, printFoo: 'Callable[[], None]') -> None:
-        
         for i in range(self.n):
-            self.foolock.acquire()
-            # printFoo() outputs "foo". Do not change or remove this line.
+            self.foo_sem.acquire()
             printFoo()
-            self.barlock.release()
-
+            self.bar_sem.release() # Wake up bar
 
     def bar(self, printBar: 'Callable[[], None]') -> None:
-        
         for i in range(self.n):
-            self.barlock.acquire()
-            # printBar() outputs "bar". Do not change or remove this line.
+            self.bar_sem.acquire()
             printBar()
-            self.foolock.release()
+            self.foo_sem.release() # Wake up foo
