@@ -470,6 +470,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1242-web-crawler-multithreaded](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1242-web-crawler-multithreaded/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
@@ -503,6 +504,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1242-web-crawler-multithreaded](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1242-web-crawler-multithreaded/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -858,5 +860,6 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1188-design-bounded-blocking-queue](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1188-design-bounded-blocking-queue/) | Medium |
 | [1195-fizz-buzz-multithreaded](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 | [1226-the-dining-philosophers](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1226-the-dining-philosophers/) | Medium |
+| [1242-web-crawler-multithreaded](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1242-web-crawler-multithreaded/) | Medium |
 | [1279-traffic-light-controlled-intersection](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1279-traffic-light-controlled-intersection/) | Easy |
 <!---LeetCode Topics End-->
