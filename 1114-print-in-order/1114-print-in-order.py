@@ -1,19 +1,18 @@
-from threading import Barrier
+from threading import Semaphore
 
 class Foo:
     def __init__(self):
-        self.first_barrier = Barrier(2)
-        self.second_barrier = Barrier(2)
-            
+        self.gates = (Semaphore(0),Semaphore(0))
+        
     def first(self, printFirst):
         printFirst()
-        self.first_barrier.wait()
+        self.gates[0].release()
         
     def second(self, printSecond):
-        self.first_barrier.wait()
-        printSecond()
-        self.second_barrier.wait()
+        with self.gates[0]:
+            printSecond()
+            self.gates[1].release()
             
     def third(self, printThird):
-        self.second_barrier.wait()
-        printThird()
+        with self.gates[1]:
+            printThird()
