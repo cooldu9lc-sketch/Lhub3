@@ -856,5 +856,6 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1116-print-zero-even-odd](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1117-building-h2o](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1117-building-h2o/) | Medium |
 | [1188-design-bounded-blocking-queue](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1188-design-bounded-blocking-queue/) | Medium |
+| [1195-fizz-buzz-multithreaded](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 | [1279-traffic-light-controlled-intersection](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1279-traffic-light-controlled-intersection/) | Easy |
 <!---LeetCode Topics End-->
