@@ -853,5 +853,6 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1114-print-in-order/) | Easy |
 | [1115-print-foobar-alternately](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1115-print-foobar-alternately/) | Medium |
+| [1116-print-zero-even-odd](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1279-traffic-light-controlled-intersection](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1279-traffic-light-controlled-intersection/) | Easy |
 <!---LeetCode Topics End-->
