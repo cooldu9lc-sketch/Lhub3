@@ -851,5 +851,6 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1114-print-in-order](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1114-print-in-order/) | Easy |
 | [1279-traffic-light-controlled-intersection](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1279-traffic-light-controlled-intersection/) | Easy |
 <!---LeetCode Topics End-->
