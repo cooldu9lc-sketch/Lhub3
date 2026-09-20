@@ -878,4 +878,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0354-russian-doll-envelopes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
