@@ -21,4 +21,7 @@ class Solution:
             for j in range(len(matrix[0])):
                 dfs(i, j, float("-inf"))
         return max_len
+
+        ### time complexity: O(m*n) where m is the number of rows and n is the number of columns in the matrix. 
+        # Each cell is visited once and stored in the memoization table.
         

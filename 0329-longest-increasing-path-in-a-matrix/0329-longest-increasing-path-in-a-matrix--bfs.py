@@ -37,3 +37,6 @@ class Solution:
                                 queue.append((nx, ny))
             path_len += 1
         return path_len 
+        ### time complexity: O(m*n) where m is the number of rows and n is the number of columns in the matrix. 
+        # Each cell is visited once 
+             
