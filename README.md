@@ -886,8 +886,10 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
