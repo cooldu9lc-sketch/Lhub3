@@ -887,9 +887,11 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1049-last-stone-weight-ii/) | Medium |
 <!---LeetCode Topics End-->
