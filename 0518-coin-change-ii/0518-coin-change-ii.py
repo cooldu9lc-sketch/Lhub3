@@ -1,6 +1,6 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
-        coins.sort()
+        #coins.sort()
         dp = [0] * (amount+1)
         dp[0]=1
         
