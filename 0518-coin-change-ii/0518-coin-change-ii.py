@@ -9,5 +9,5 @@ class Solution:
             for val in range(coin,amount+1):
                 dp[val] += dp[val-coin]                  
                
-        print(dp)
+       
         return dp[-1]
