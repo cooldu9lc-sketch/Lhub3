@@ -14,7 +14,7 @@ class Solution:
                 dp[i][s] = dp[i - 1][s]
                 if s >= w:
                     dp[i][s] = dp[i][s] or dp[i - 1][s - w]
-
+         ## find Max value of s such that dp[s] is True and s <= target
         for s in range(target, -1, -1):
             if dp[n][s]:
                 return total - 2 * s

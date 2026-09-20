@@ -12,7 +12,7 @@ class Solution:
             w = stones[i - 1]
             for s in range(target ,w-1,-1):
                dp[s] = dp[s] or dp[s - w]
-
+        ## find Max value of s such that dp[s] is True and s <= target
         for s in range(target, -1, -1):
             if dp[s]:
                 return total - 2 * s

@@ -16,3 +16,6 @@ class Solution:
             for w in range(required,num-1,-1):
                 dp[w]+= dp[w-num]
         return dp[-1]
+
+        ### equivalent 2d dp[i][w] = dp[i-1][w] + dp[i-1][w-num]
+        ## where dp[i][w] is the number of ways to reach sum w using the first i numbers in nums.
