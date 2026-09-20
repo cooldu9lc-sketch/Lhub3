@@ -867,4 +867,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [1226-the-dining-philosophers](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1226-the-dining-philosophers/) | Medium |
 | [1242-web-crawler-multithreaded](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1242-web-crawler-multithreaded/) | Medium |
 | [1279-traffic-light-controlled-intersection](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1279-traffic-light-controlled-intersection/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
