@@ -5,17 +5,14 @@ class Solution:
         target = total // 2
         n = len(stones)
 
-        dp = [[False] * (target + 1) for _ in range(n + 1)]
-        dp[0][0] = True
+        dp = [False] * (target + 1) 
+        dp[0] = True
 
-        for i in range(1, n + 1):
-            w = stones[i - 1]
-            for s in range(target + 1):
-                dp[i][s] = dp[i - 1][s]
-                if s >= w:
-                    dp[i][s] = dp[i][s] or dp[i - 1][s - w]
+        for num in stones:
+            for w in range(target ,num-1,-1):
+               dp[w] = dp[w] or dp[w - num]
 
         for s in range(target, -1, -1):
-            if dp[n][s]:
+            if dp[s]:
                 return total - 2 * s
         return 0
