@@ -90,6 +90,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0518-coin-change-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0518-coin-change-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -236,6 +237,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0583-delete-operation-for-two-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0647-palindromic-substrings/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -811,12 +813,14 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0308-range-sum-query-2d-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0308-range-sum-query-2d-mutable](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -871,4 +875,5 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
