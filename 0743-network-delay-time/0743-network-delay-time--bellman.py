@@ -4,6 +4,6 @@ class Solution:
         d[k-1]=0
         for i in range(n-1):
             for u,v,w in times:
-                d[v]=min(d[v],d[u]+w)
+                d[v-1]=min(d[v-1],d[u-1]+w)
            
         return max(d) if max(d)!=inf else -1
