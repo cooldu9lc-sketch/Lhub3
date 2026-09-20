@@ -13,3 +13,7 @@ class Solution:
                         break
 
         return dp[-1]
+        ## Time complexity: O(n * m * k) where n is the length of the string s,
+        #  m is the number of words in the wordDict, 
+        # and k is the average length of the words in the wordDict
+        ## Space complexity: O(n) where n is the length of the string s
