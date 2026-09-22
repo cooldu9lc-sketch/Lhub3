@@ -908,5 +908,6 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0337-house-robber-iii/) | Medium |
 <!---LeetCode Topics End-->
