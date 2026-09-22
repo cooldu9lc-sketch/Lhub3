@@ -1,23 +1,28 @@
 class Solution:
     def findKthLargest(self, nums, k):
-        def quick_select(nums, k):
-            pivot = random.choice(nums)
-            left, mid, right = [], [], []
+        target_idx = len(nums) - k  # Convert k-th largest to index from left
+        left, right = 0, len(nums) - 1
 
-            for num in nums:
-                if num > pivot:
-                    left.append(num)
-                elif num < pivot:
-                    right.append(num)
+        while left <= right:
+            pivot = nums[random.randint(left, right)]
+            lt, i, gt = left, left, right
+
+            while i <= gt:
+                if nums[i] < pivot:
+                    nums[lt], nums[i] = nums[i], nums[lt]
+                    lt += 1
+                    i += 1
+                elif nums[i] > pivot:
+                    nums[gt], nums[i] = nums[i], nums[gt]
+                    gt -= 1
                 else:
-                    mid.append(num)
-            
-            if k <= len(left):
-                return quick_select(left, k)
-            
-            if len(left) + len(mid) < k:
-                return quick_select(right, k - len(left) - len(mid))
-            
-            return pivot
-        
-        return quick_select(nums, k)
+                    i += 1
+
+            if lt <= target_idx <= gt:
+                return nums[target_idx]
+            elif target_idx < lt:
+                right = lt - 1
+            else:
+                left = gt + 1
+
+        return -1
