@@ -7,12 +7,5 @@ class Solution:
         diff = k
 
         for _ in range(2, n + 1):
-
-            nsame = diff
-
-            ndiff = (same + diff) * (k - 1)
-
-            same = nsame
-            diff = ndiff
-
+            same,diff = diff, (same + diff) * (k - 1)
         return same + diff
