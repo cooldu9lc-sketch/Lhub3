@@ -902,5 +902,6 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
