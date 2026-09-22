@@ -1,6 +1,6 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
-        """m,n=len(s),len(t)
+        m,n=len(s),len(t)
         dp=[[0]*(n+1) for _ in range(m+1)]
         for i in range(m+1):
             dp[i][0]=1 ## This is initialized to 1 (not i)
@@ -25,3 +25,4 @@ class Solution:
                     dp[j]=dp[j]
                 diag=next_diag
         return dp[-1]
+        """
