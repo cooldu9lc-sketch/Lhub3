@@ -29,6 +29,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0066-plus-one](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -281,6 +282,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0217-contains-duplicate/) | Easy |
 | [0252-meeting-rooms](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0252-meeting-rooms/) | Easy |
@@ -315,6 +317,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0015-3sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0143-reorder-list/) | Medium |
 | [0161-one-edit-distance](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0161-one-edit-distance/) | Medium |
@@ -910,4 +913,12 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0337-house-robber-iii/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
