@@ -224,6 +224,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0221-maximal-square](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0221-maximal-square/) | Medium |
 | [0256-paint-house](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0256-paint-house/) | Medium |
 | [0276-paint-fence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0276-paint-fence/) | Medium |
+| [0279-perfect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0312-burst-balloons/) | Hard |
@@ -390,6 +391,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0202-happy-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0279-perfect-squares/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0504-base-7](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0504-base-7/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
@@ -501,6 +503,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0226-invert-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0226-invert-binary-tree/) | Easy |
 | [0261-graph-valid-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
+| [0279-perfect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0279-perfect-squares/) | Medium |
 | [0286-walls-and-gates](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0286-walls-and-gates/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0322-coin-change/) | Medium |
@@ -890,6 +893,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0279-perfect-squares/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0518-coin-change-ii/) | Medium |
@@ -903,6 +907,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0279-perfect-squares/) | Medium |
 | [0518-coin-change-ii](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0518-coin-change-ii/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
