@@ -104,6 +104,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0846-hand-of-straights](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -251,6 +252,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0787-cheapest-flights-within-k-stops](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0907-sum-of-subarray-minimums](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1048-longest-string-chain](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/1048-longest-string-chain/) | Medium |
@@ -695,6 +697,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0496-next-greater-element-i](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0853-car-fleet/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -790,6 +793,7 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | [0496-next-greater-element-i](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0853-car-fleet/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
