@@ -936,4 +936,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
