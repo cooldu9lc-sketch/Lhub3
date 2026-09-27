@@ -939,5 +939,6 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
