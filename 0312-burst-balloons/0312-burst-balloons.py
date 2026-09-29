@@ -13,7 +13,7 @@ class Solution:
                 #r = l + length
                 best = 0
 
-                for k in range(l + 1, r):
+                for k in range(l + 1, r): # K ranges from [l+1,r-1]
                     coins = dp[l][k] + arr[l] * arr[k] * arr[r] + dp[k][r]
                     best = max(best, coins)
 
