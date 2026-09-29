@@ -1,38 +1,31 @@
 class Solution:
-    def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
-        
+    def findWords(self, board: list[list[str]], words: list[str]) -> list[str]:
+        m,n = len(board),len(board[0])
         trie=lambda:defaultdict(trie)
-        root=head=trie()
+        root=trie()
+        res=[]
         for word in words:
             reduce(dict.__getitem__,word,root)["#"]=word
-            """node=root
-            for char in word:
-                node=node[char]
-            node["#"]=word"""
-        res=[]
-        
-        def dfs(i,j,parent):
-            #print(i,j)
-            char = board[i][j]
-            curr= parent[char]
-            board[i][j]="$"
-            wordm = curr.pop("#",None)
-            if wordm:
-                res.append(wordm)
-            
-            for dx,dy in [(i+1,j),(i-1,j),(i,j+1),(i,j-1)]:
-                if dx<0 or dx>=m or dy<0 or dy>=n:
-                    continue
-                if board[dx][dy] in curr:
-                    dfs(dx,dy,curr)
-            
-            board[i][j]=char
-            if len(curr)==0:
-                del parent[char]
-        
-        m,n=len(board),len(board[0])
-        for r,c in product(range(m),range(n)):
-            if board[r][c] in root:
-                dfs(r,c,root)
 
+        def dfs(i,j,parent):
+            if board[i][j] not in parent:
+                return 
+            char=board[i][j]
+            node=parent[char]
+            board[i][j]="*"
+            if "#" in node:
+                res.append(node.pop("#"))
+            for dx,dy in [(i+1,j),(i-1,j),(i,j+1),(i,j-1)]:
+                if 0<=dx<m and 0<=dy<n and dfs(dx,dy,node):
+                    pass
+            board[i][j]=char
+            return
+        for i,j in product(range(m),range(n)):
+            dfs(i,j,root)
         return res
+
+            
+            
+            
+
+            
