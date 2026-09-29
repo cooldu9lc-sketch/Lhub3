@@ -10,8 +10,8 @@ class Solution:
             m=(l+r)>>1
             if nums[m]==target:return m
             
-            if ispossible(l,m,r):
+            if ispossible(l,m,r): ## Should I search the right half
                 l=m+1
             else:
-                r=m
+                r=m-1
         return l if nums[l]==target else -1
