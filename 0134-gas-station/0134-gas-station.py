@@ -3,14 +3,17 @@ class Solution:
         n=len(gas)
         total_gas=0
         total_cost=0
+        n=len(gas)
 
         start_idx=curr=0
-
-        for i in range(n):
-            total_cost+=cost[i]
-            total_gas += gas[i] 
-            curr= curr+gas[i]-cost[i] ##TO GET TO INDEX i
+        for i,(g,c) in enumerate(zip(gas,cost)):
+            total_gas+=g
+            total_cost+=c
+            curr+=g-c
             if curr<0:
                 curr=0
-                start_idx = (i+1)
-        return -1 if total_gas<total_cost else start_idx
+                start_idx=(i+1)%n
+
+
+
+        return start_idx if total_gas>=total_cost else -1
