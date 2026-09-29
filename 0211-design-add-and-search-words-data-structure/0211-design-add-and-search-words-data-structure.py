@@ -1,37 +1,46 @@
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.is_word = False
+
+
 class WordDictionary:
 
     def __init__(self):
-        self.trie = lambda:defaultdict(self.trie)
-        self.root = self.trie()
+        self.root = TrieNode()
 
     def addWord(self, word: str) -> None:
-        node=self.root
-        for w in word:
-            node=node[w]
-        node["#"]=True
-    
-    
+        node = self.root
+
+        for ch in word:
+            if ch not in node.children:
+                node.children[ch] = TrieNode()
+
+            node = node.children[ch]
+
+        node.is_word = True
+
+
     def search(self, word: str) -> bool:
-        node=self.root
-        i=0
-        q=deque([(node,i)])
-        while q:
-            node,idx=q.popleft()
-            if idx==len(word):
-                if "#" in node:
+
+        def dfs(node, i):
+
+            if i == len(word):
+                return node.is_word
+
+            ch = word[i]
+
+            if ch != ".":
+                if ch not in node.children:
+                    return False
+
+                return dfs(node.children[ch], i + 1)
+
+            # wildcard
+            for child in node.children.values():
+                if dfs(child, i + 1):
                     return True
-            elif word[idx]!=".":
-                if word[idx] in node:
-                    q.append((node[word[idx]],idx+1))
-            else:
-                for k,v in node.items():
-                    if k=="#":continue
-                    q.append((v,idx+1))
-        return False
-        
 
+            return False
 
-# Your WordDictionary object will be instantiated and called as such:
-# obj = WordDictionary()
-# obj.addWord(word)
-# param_2 = obj.search(word)
+        return dfs(self.root, 0)
