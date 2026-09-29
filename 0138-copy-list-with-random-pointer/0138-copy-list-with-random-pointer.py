@@ -19,6 +19,4 @@ class Solution:
             mapp[head].random = mapp[head.random]
             head = head.next
 
-
-
         return mapp[start]
