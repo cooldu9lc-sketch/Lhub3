@@ -10,7 +10,7 @@ class Solution:
         def dfs(node):
             if node not in visited:
                 visited[node]=1
-            elif node in visited and visited[node]==1:
+            elif visited[node]==1:
                 return False
             elif visited[node]==2:
                 return True
