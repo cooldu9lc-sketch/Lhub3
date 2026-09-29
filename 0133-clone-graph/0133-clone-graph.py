@@ -13,13 +13,13 @@ class Solution:
         copy = defaultdict(lambda: Node())
         #copy[None]=None
         def clone(node):
-            if node.val in copy:
-                return copy[node.val]
-            copy[node.val].val=node.val
+            if node in copy:
+                return copy[node]
+            copy[node].val=node.val
             for neighbour in node.neighbors:
-                copy[node.val].neighbors.append(clone(neighbour))
+                copy[node].neighbors.append(clone(neighbour))
             
-            return copy[node.val]
+            return copy[node]
 
 
         return clone(node)
