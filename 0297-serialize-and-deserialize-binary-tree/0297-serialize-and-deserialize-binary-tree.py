@@ -24,14 +24,17 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        vals= iter(data.split())
+        vals= data.split()
+        vals= vals[::-1]
         def recur():
-            val= next(vals)
-            if val=="#":return None
-            node=TreeNode(int(val))
-            node.left=recur()
-            node.right=recur()
-            return node
+            if len(vals):
+                val= vals.pop()
+                if val=="#":return None
+                node=TreeNode(int(val))
+                node.left=recur()
+                node.right=recur()
+                return node
+            return None
         return recur()
         
 
