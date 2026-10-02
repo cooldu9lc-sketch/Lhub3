@@ -959,4 +959,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
