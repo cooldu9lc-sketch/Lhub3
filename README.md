@@ -955,4 +955,8 @@ chrome-extension://kdkgpjpenaeoodajljkflmlnkoihkmda/src/html/welcome.html
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0239-sliding-window-maximum/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0269-alien-dictionary](https://github.com/cooldu9lc-sketch/Lhub3/tree/main/0269-alien-dictionary/) | Hard |
 <!---LeetCode Topics End-->
