@@ -29,12 +29,19 @@ class SegmentTree:
 
 class Solution:
     def countSmaller(self, nums: List[int]) -> List[int]:
-        offset= 10**4
-        tree=SegmentTree(2*offset+1)
+        values = sorted(set(nums))
+
+        rank = {
+            value: i
+            for i, value in enumerate(values)
+        }
+        size = len(values)
+        #offset=
+        tree=SegmentTree(size)
         res=[]
         length=len(nums)
         for i in range(length-1,-1,-1):
-            res.append(tree.sumRange(0,nums[i]+offset-1))
-            tree.update(offset+nums[i],1)
+            res.append(tree.sumRange(0,rank[nums[i]]-1))
+            tree.update(rank[nums[i]],1)
         return res[::-1]
         
