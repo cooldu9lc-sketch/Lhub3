@@ -11,7 +11,7 @@ class Solution:
         for w1,w2 in zip(words,words[1:]):
             for c1,c2 in zip(w1,w2):
                 if c1!=c2:
-                    if c2 not in g[c1]:
+                    if c2 not in g[c1]: ## This condition is very important
                         g[c1].add(c2)
                         ind[c2]+=1
                     break
@@ -31,5 +31,6 @@ class Solution:
                 ind[neigh]-=1
                 if ind[neigh]==0:
                     q.append(neigh)
-        return "".join(res) if len(res)==len(all_chars) else ""
+        return "".join(res) if len(res)==len(all_chars) else "" 
+        ## exit condition is also important i.e len(res)==all_chars
         
