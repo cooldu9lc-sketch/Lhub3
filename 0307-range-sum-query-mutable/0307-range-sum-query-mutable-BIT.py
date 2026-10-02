@@ -1,36 +1,39 @@
+class Bit:
+    #### Constructing fenwick tree in O(N) time
+    def __init__(self,nums):
+        self.bit=[0] + nums[:]
+        n=len(self.bit)
+        for i in range(1,n):
+            j=i+ (i&-i)
+            if j<n:
+                self.bit[j]+=self.bit[i]
+    
+    def addValue(self,idx,value):
+        while idx<len(self.bit):
+            self.bit[idx]+=value
+            idx+= idx&(-idx)
+        
+    def query(self,idx):
+        s=0
+        while idx>0:
+            s+=self.bit[idx]
+            idx-= idx&(-idx)
+        return s
+
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self.seg=[0]*len(nums)+nums[:]
-        self.n=len(nums)
-        for i in range(self.n-1,0,-1):
-            self.seg[i]=self.seg[i<<1]+self.seg[(i<<1)+1]
-        
+        self.nums=nums[:]
+        self.tree=Bit(nums)
 
     def update(self, index: int, val: int) -> None:
-        #update_value=val-self.seg[index+self.n]
-        self.seg[index+self.n]=val
-        p=index+self.n
-        while p>1:
-            self.seg[p>>1]=self.seg[p]+self.seg[p^1]
-            p>>=1
-            
+        update_val=val-self.nums[index]
+        self.tree.addValue(index+1,update_val)
+        self.nums[index]=val        
 
     def sumRange(self, left: int, right: int) -> int:
-        res=0
-        l,r=left+self.n,right+self.n
-        while l<=r:
-            if l & 1:
-                res+=self.seg[l]
-                l+=1
-            if r & 1==0:
-                
-                res+=self.seg[r]
-                r-=1
-            l>>=1
-            r>>=1
-        return res
-
+        return self.tree.query(right+1)-self.tree.query(left)
+        
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)
 # obj.update(index,val)
