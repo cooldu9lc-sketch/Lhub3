@@ -17,9 +17,8 @@ class Twitter:
         heap=[]
         for follower in self.user_followers[userId] | {userId}:
             if len(self.user_tweets[follower]):
-                heappush(heap,(self.user_tweets[follower][0][0],self.user_tweets[follower][0][1],0,follower))
-                if len(heap)>10:
-                    heappop(heap)
+                    heappush(heap,(self.user_tweets[follower][0][0],self.user_tweets[follower][0][1],0,follower))
+                
         res=[]
         while len(res)<10 and heap:
             time,tweet_id,idx,uid = heappop(heap)
