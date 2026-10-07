@@ -15,4 +15,6 @@ class Solution:
         # is used to delimit levels
         $ is used to represent None Values
         """
+        a=convert(root)
+        print(a)
         return convert(subRoot) in convert(root)
