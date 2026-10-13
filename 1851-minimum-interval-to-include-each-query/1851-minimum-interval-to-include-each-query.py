@@ -1,15 +1,22 @@
 class Solution:
     def minInterval(self, intervals: List[List[int]], queries: List[int]) -> List[int]:
-        A = intervals
-        A = sorted(A,reverse=True) ## ARRAY IS REVERSEDD TO POP
-        h = []
-        res = {}
+        intervals.sort()
+        heap = []
+        ans = {}
+        i=0
+
         for q in sorted(queries):
-            while A and A[-1][0] <= q: #
-                i, j = A.pop()
-                if j >= q: ##if j < q , j will be useless for this query and all queries after
-                    heapq.heappush(h, [j - i + 1, j])
-            while h and h[0][1] < q: ### clean up all the finished intervvals
-                heapq.heappop(h)
-            res[q] = h[0][0] if h else -1
-        return [res[q] for q in queries]
+            # Add intervals that have started
+            while i<len(intervals) and intervals[i][0] <= q:
+                l, r = intervals[i]
+                if r >= q:
+                    heapq.heappush(heap, (r-l+1, r))
+                i+=1
+
+            # Lazily remove expired intervals
+            while heap and heap[0][1] < q:
+                heapq.heappop(heap)
+
+            ans[q] = heap[0][0] if heap else -1
+
+        return [ans[q] for q in queries]
