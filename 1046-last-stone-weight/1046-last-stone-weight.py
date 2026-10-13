@@ -1,7 +1,7 @@
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         
-        heap =[ ]
+
         for num in stones:
             heapq.heappush(heap,-num)
 
