@@ -14,4 +14,17 @@ Then let's see how this can be converted to a subset sum problem:
 So the original problem has been converted to a subset sum problem as follows:
 Find the**subset**`P`of`nums`such that`sum(P) is the max Value <= sum(nums)//2`
 
-Refer LC: 416 To Solve Subset Sum and  LC 494
+Refer LC: 416 To Solve Subset Sum and  LC 4942. Why is the answer totalSum - 2 * r?
+Think of dividing all stones into two groups:
+- Group A has total weight r.
+- Group B has total weight totalSum - r.
+Because stones can be smashed against each other, the smallest achievable leftover weight corresponds to minimizing the absolute difference between the sums of these two groups.
+Therefore:
+\[
+\begin{aligned}
+\text{Remaining Weight}
+&=|\text{Group B}-\text{Group A}|\\
+&=|(totalSum-r)-r|\\
+&=\boxed{totalSum-2r}
+\end{aligned}
+\]
